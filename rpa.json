@@ -1,0 +1,8 @@
+{
+  "nome": "teste_popup",
+  "versao": "1.0.0",
+  "descricao": "Abre um pop-up nativo na tela da máquina (teste visual da Control Room).",
+  "entrada": "main.py",
+  "funcao": "rodar",
+  "usa_navegador": false
+}
